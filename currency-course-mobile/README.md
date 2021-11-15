@@ -18,8 +18,8 @@
   
 ## Стек технологий для выполнения задания (на выбор)
 ### Нативная разработка
+* Ios - Swift/Objective-C
 * Android - Kotlin/Java
-* Ios - Swift
 
 ### Кроссплатформенный фреймворк
 * JavaScript (React Native)
