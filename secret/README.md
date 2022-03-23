@@ -25,6 +25,6 @@
 
 ## Стек технологий для выполнения задания
 
-**Backend:** node.js (express, NestJS)
+**Backend:** Node.js (express, NestJS)
 
 **Frontend:** VueJs.
