@@ -16,12 +16,12 @@
 
 При реализации проекта рекомендуется использовать следующие среды для разработки:
 
-- IntelliJ IDEA / PhpStorm / WebStorm
+- **IntelliJ IDEA / PhpStorm / WebStorm**
 - Visual Studio Code и DBeaver (менее предпочтительно)
 
 Рекомендуемая операционная система в которой необходимо реализовывать проект:
 
-- Ubuntu Desktop 24.04 / Linux Mint 22 с установленным Docker
+- **Ubuntu Desktop 24.04 / Linux Mint 22 с установленным Docker**
 - Windows 10/11 с установленным WSL2 и Docker Desktop (менее предпочтительно)
 - Windows 10/11 / Hyper-V / VirtualBox с виртуальной машиной Ubuntu Desktop 24.04 / Linux Mint 22 с установленным Docker (менее предпочтительно)
 - macOS Sequoia 15.0 / macOS Sonoma 14.7 с установленным Docker Desktop (менее предпочтительно)
